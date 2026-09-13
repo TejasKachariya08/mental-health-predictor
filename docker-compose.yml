@@ -1,0 +1,9 @@
+services:
+ 
+
+  app:
+    image: tejaskachariya/mental-health-score-predictor:0.0.1
+    container_name: mental-health-app
+    ports:
+      - "8508:8508"
+   
