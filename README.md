@@ -32,26 +32,6 @@ Mental Health Score/
 └── README.md                                         # Project documentation
 ```
 
-### 💡 Recommended Scaled Structure (For Production):
-If expanding the project into multi-service deployment, the recommended layout is:
-```text
-Mental Health Score/
-├── backend/
-│   ├── app/
-│   │   ├── main.py
-│   │   ├── schemas.py
-│   │   └── predictor.py
-│   └── requirements.txt
-├── frontend/
-│   ├── streamlit_app.py
-│   └── style.css
-├── artifacts/
-│   ├── data/
-│   └── models/
-├── notebooks/
-└── docker-compose.yml
-```
-
 ---
 
 ## 🚀 Getting Started
