@@ -2,6 +2,8 @@
 
 An end-to-end Machine Learning web application designed to assess student mental health wellbeing based on digital habits (social media usage, daily phone unlocks), academic patterns, and lifestyle choices (sleep, exercise, stress levels).
 
+**[🚀 Live Demo](https://me-l.co/uxs47axw)** · **[GitHub Repository](https://github.com/TejasKachariya08/mental-health-predictor)**
+
 ---
 
 ## 🏗️ Architecture Overview
